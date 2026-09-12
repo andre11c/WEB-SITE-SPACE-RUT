@@ -1,0 +1,31 @@
+.button1 {
+    background-color: #1E1E1E;
+    border-radius: 25px;
+    box-shadow: #1E1E1E;
+
+    width: 153px;
+    height: 65px;
+
+}
+
+.button2 {
+    background-color: #1E1E1E;
+    border-radius: 25px;
+    box-shadow: #1E1E1E;
+
+    width: 221px;
+    height: 64px;
+
+}
+
+.textbutton {
+    color: #f0f0f0;
+    font-size: 24px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.stroke {
+    margin: auto;
+    margin-top: 15px;
+}
